@@ -1,7 +1,7 @@
 # venkateswarareddy
 my profile information
 # Hi there 👋 I'm Bijjam Venkateswara Reddy  
-
+ 
 🎓 **B.Tech in Electronics Communication & Engineering (AI & DS)**  
 Vel Tech University, Chennai | CGPA: 7.73  
 
